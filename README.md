@@ -22,3 +22,22 @@ A simple and responsive To-Do List web application that allows users to add, edi
    ```bash
    git clone https://github.com/panagiotis-pechlivanidis/to-do-list.git
    cd todo-list
+
+2. **Open the Application**:
+    Open the index.html file in your web browser.
+
+3.  **Add a Task**:
+    Type your task in the input field and press "Add" or hit the Enter key.
+
+4.  **Edit a Task**:
+    Click on any task to edit its content. Press Enter or click outside the input field to save the changes.
+
+5.  **Mark a Task as Completed**:
+    Click the checkbox next to a task to mark it as completed. The task will be displayed with a strikethrough.
+
+6.  **Delete All Tasks**:
+    Click the "Delete All" button to clear the entire list.
+
+## License
+
+This project is open-source and available under the MIT License.
